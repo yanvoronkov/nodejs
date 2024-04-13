@@ -1,0 +1,16 @@
+{
+  "name": "gen_security_pass",
+  "version": "1.0.4",
+  "description": "This library is designed to generate strong passwords",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./script.js"
+  },
+  "keywords": [
+    "password",
+    "generate password",
+    "security password"
+  ],
+  "author": "Yan Voronkov",
+  "license": "ISC"
+}
