@@ -3,5 +3,10 @@
     "name": "Yan",
     "age": 23,
     "id": 1
+  },
+  {
+    "name": "Ivan",
+    "age": 46,
+    "id": 3
   }
 ]
